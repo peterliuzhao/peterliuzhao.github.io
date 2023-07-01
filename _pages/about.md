@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Self-talk & Visualizing & Subjective hallucinating & Optimistic - Can't be optimism that's delusional, it has to be rooted in some truth"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
